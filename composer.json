@@ -1,0 +1,9 @@
+{
+    "name": "mz/toko_online",
+    "description": "E-commerce Aksesoris PC",
+    "type": "project",
+    "license": "GPL",
+    "require": {
+        "nesbot/carbon": "^2.43"
+    }
+}
